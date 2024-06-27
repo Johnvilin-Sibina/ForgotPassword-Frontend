@@ -1,0 +1,15 @@
+.form-label{
+    font-size: larger;
+    font-weight:500;
+}
+main{
+    height:100vh;
+    background-color: rgba(3, 3, 3, 0.745);
+    color:white;
+}
+.navbar-collapse{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
